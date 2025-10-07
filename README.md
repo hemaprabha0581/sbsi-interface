@@ -1,4 +1,4 @@
-# Speech Breath Signal Interface (SBSI)
+# Silent Breath Speech Interface (SBSI)
 
 A minimal full-stack web app scaffold to serve a PyTorch model via FastAPI and a React + Tailwind frontend.
 
