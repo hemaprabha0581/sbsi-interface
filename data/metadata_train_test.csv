@@ -1,0 +1,421 @@
+filename,class,sample_no,instruction,rms,peak_amp,timestamp,device,distance_cm,notes,set
+Short_Breath_015.wav,Short_Breath,15,944.8,10220,Two short inhales per sample,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Short_Breath_012.wav,Short_Breath,12,1297.5,10000,Two short inhales per sample,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Short_Breath_003.wav,Short_Breath,3,1370.4,10000,"Short, single inhales",2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Short_Breath_015.wav,Short_Breath,15,3029.9,32768,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Short_Breath_008.wav,Short_Breath,8,226.0,2250,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Short_Breath_010.wav,Short_Breath,10,"Short, single inhales",31.2,15358,2025-10-06 23:04:18,yes,8,kept_out_of_range,train
+Short_Breath_017.wav,Short_Breath,17,1553.3,10000,Two short inhales per sample,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Short_Breath_019.wav,Short_Breath,19,1159.2,10000,Two short inhales per sample,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Short_Breath_018.wav,Short_Breath,18,752.3,10000,Two short inhales per sample,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Short_Breath_018.wav,Short_Breath,18,Two short inhales per sample,36.3,19704,2025-10-06 23:05:28,yes,8,kept_out_of_range,train
+Short_Breath_003.wav,Short_Breath,3,"Short, single inhales",45.5,2273,2025-10-06 23:03:08,yes,8,kept_out_of_range,train
+Short_Breath_018.wav,Short_Breath,18,1482.8,19704,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Short_Breath_008.wav,Short_Breath,8,1004.3,10000,"Short, single inhales",2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Short_Breath_007.wav,Short_Breath,7,"Short, single inhales",36.0,7482,2025-10-06 23:03:47,yes,8,kept_out_of_range,train
+Short_Breath_004.wav,Short_Breath,4,497.5,10000,"Short, single inhales",2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Short_Breath_016.wav,Short_Breath,16,9.8,145,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Short_Breath_019.wav,Short_Breath,19,2617.7,22576,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Short_Breath_014.wav,Short_Breath,14,Two short inhales per sample,38.1,28536,2025-10-06 23:04:50,yes,8,kept_out_of_range,train
+Short_Breath_014.wav,Short_Breath,14,5944.3,28536,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Short_Breath_013.wav,Short_Breath,13,Two short inhales per sample,33.2,16851,2025-10-06 23:04:42,yes,8,kept_out_of_range,train
+Short_Breath_009.wav,Short_Breath,9,214.7,10000,"Short, single inhales",2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Short_Breath_011.wav,Short_Breath,11,1533.5,10000,Two short inhales per sample,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Short_Breath_002.wav,Short_Breath,2,"Short, single inhales",2.3,30,2025-10-06 23:02:58,yes,8,kept_out_of_range,train
+Short_Breath_006.wav,Short_Breath,6,338.6,3186,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Short_Breath_004.wav,Short_Breath,4,187.0,3757,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Short_Breath_001.wav,Short_Breath,1,1919.2,10000,"Short, single inhales",2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Short_Breath_010.wav,Short_Breath,10,1033.4,15358,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Short_Breath_019.wav,Short_Breath,19,Two short inhales per sample,35.5,22576,2025-10-06 23:05:41,yes,8,kept_out_of_range,train
+Short_Breath_002.wav,Short_Breath,2,770.1,10000,"Short, single inhales",2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Short_Breath_005.wav,Short_Breath,5,"Short, single inhales",29.4,4629,2025-10-06 23:03:27,yes,8,kept_out_of_range,train
+Short_Breath_009.wav,Short_Breath,9,5.8,271,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Short_Breath_001.wav,Short_Breath,1,6010.3,31313,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Short_Breath_002.wav,Short_Breath,2,2.3,30,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Short_Breath_003.wav,Short_Breath,3,311.6,2273,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Short_Breath_012.wav,Short_Breath,12,3191.8,24595,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Short_Breath_007.wav,Short_Breath,7,662.3,7482,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Short_Breath_012.wav,Short_Breath,12,Two short inhales per sample,39.2,24595,2025-10-06 23:04:34,yes,8,kept_out_of_range,train
+Short_Breath_017.wav,Short_Breath,17,3920.2,25233,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Short_Breath_004.wav,Short_Breath,4,"Short, single inhales",14.9,3757,2025-10-06 23:03:18,yes,8,kept_out_of_range,train
+Short_Breath_001.wav,Short_Breath,1,"Short, single inhales",16.7,31313,2025-10-06 23:02:46,yes,8,kept_out_of_range,train
+Short_Breath_016.wav,Short_Breath,16,678.8,10000,Two short inhales per sample,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Short_Breath_017.wav,Short_Breath,17,Two short inhales per sample,37.0,25233,2025-10-06 23:05:20,yes,8,kept_out_of_range,train
+Short_Breath_014.wav,Short_Breath,14,2082.8,10000,Two short inhales per sample,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Short_Breath_008.wav,Short_Breath,8,"Short, single inhales",21.4,2250,2025-10-06 23:03:56,yes,8,kept_out_of_range,train
+Short_Breath_006.wav,Short_Breath,6,1062.5,10000,"Short, single inhales",2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Short_Breath_009.wav,Short_Breath,9,"Short, single inhales",3.9,271,2025-10-06 23:04:09,yes,8,kept_out_of_range,train
+Short_Breath_020.wav,Short_Breath,20,1843.0,10000,Two short inhales per sample,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Short_Breath_006.wav,Short_Breath,6,"Short, single inhales",32.9,3186,2025-10-06 23:03:38,yes,8,kept_out_of_range,train
+Short_Breath_005.wav,Short_Breath,5,608.8,4629,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,test
+Short_Breath_005.wav,Short_Breath,5,1314.9,10000,"Short, single inhales",2025-10-06 23:38:49,Airdopes Alpha,1,8,test
+Short_Breath_015.wav,Short_Breath,15,Two short inhales per sample,36.0,32062,2025-10-06 23:04:58,yes,8,ok,test
+Short_Breath_020.wav,Short_Breath,20,Two short inhales per sample,32.8,29124,2025-10-06 23:05:50,yes,8,kept_out_of_range,test
+Short_Breath_007.wav,Short_Breath,7,884.9,10000,"Short, single inhales",2025-10-06 23:38:49,Airdopes Alpha,1,8,test
+Short_Breath_011.wav,Short_Breath,11,Two short inhales per sample,32.9,25283,2025-10-06 23:04:26,yes,8,kept_out_of_range,test
+Short_Breath_016.wav,Short_Breath,16,Two short inhales per sample,9.8,145,2025-10-06 23:05:11,yes,8,kept_out_of_range,test
+Short_Breath_013.wav,Short_Breath,13,809.7,10000,Two short inhales per sample,2025-10-06 23:38:49,Airdopes Alpha,1,8,test
+Short_Breath_013.wav,Short_Breath,13,1364.9,16851,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,test
+Short_Breath_020.wav,Short_Breath,20,5368.3,29124,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,test
+Short_Breath_010.wav,Short_Breath,10,672.6,10000,"Short, single inhales",2025-10-06 23:38:49,Airdopes Alpha,1,8,test
+Short_Breath_011.wav,Short_Breath,11,3877.8,25283,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,test
+Cough_008.wav,Cough,8,Two short coughs,18.9,32767,2025-10-06 22:56:42,yes,8,kept_out_of_range,train
+Cough_005.wav,Cough,5,7.4,120,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Cough_013.wav,Cough,13,3140.5,32768,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Cough_017.wav,Cough,17,Short cough bursts,14.6,32767,2025-10-06 22:58:23,yes,8,kept_out_of_range,train
+Cough_020.wav,Cough,20,1252.3,10000,Short cough bursts,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Cough_006.wav,Cough,6,Two short coughs,17.9,11681,2025-10-06 22:56:21,yes,8,kept_out_of_range,train
+Cough_013.wav,Cough,13,958.3,10000,Single loud cough,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Cough_004.wav,Cough,4,Single soft cough,18.9,22591,2025-10-06 22:55:58,yes,8,kept_out_of_range,train
+Cough_009.wav,Cough,9,751.7,10000,Two short coughs,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Cough_016.wav,Cough,16,Short cough bursts,3.9,423,2025-10-06 22:58:10,yes,8,kept_out_of_range,train
+Cough_016.wav,Cough,16,6.2,423,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Cough_017.wav,Cough,17,917.1,10000,Short cough bursts,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Cough_004.wav,Cough,4,524.0,10000,Single soft cough,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Cough_012.wav,Cough,12,1653.0,21127,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Cough_015.wav,Cough,15,Single loud cough,10.4,28074,2025-10-06 22:57:54,yes,8,kept_out_of_range,train
+Cough_011.wav,Cough,11,601.6,10000,Single loud cough,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Cough_010.wav,Cough,10,Two short coughs,24.5,32767,2025-10-06 22:57:01,yes,8,kept_out_of_range,train
+Cough_016.wav,Cough,16,145.6,10000,Short cough bursts,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Cough_003.wav,Cough,3,2518.3,32768,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Cough_009.wav,Cough,9,2463.6,32768,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Cough_005.wav,Cough,5,Single soft cough,7.4,120,2025-10-06 22:56:08,yes,8,kept_out_of_range,train
+Cough_011.wav,Cough,11,3.5,58,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Cough_007.wav,Cough,7,Two short coughs,18.3,32767,2025-10-06 22:56:31,yes,8,kept_out_of_range,train
+Cough_020.wav,Cough,20,4104.1,32768,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Cough_007.wav,Cough,7,1029.2,10000,Two short coughs,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Cough_001.wav,Cough,1,260.2,5827,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Cough_019.wav,Cough,19,4681.8,32768,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Cough_017.wav,Cough,17,3005.7,32768,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Cough_002.wav,Cough,2,593.3,10000,Single soft cough,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Cough_015.wav,Cough,15,1077.4,10000,Single loud cough,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Cough_007.wav,Cough,7,3372.9,32768,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Cough_012.wav,Cough,12,Single loud cough,16.2,21127,2025-10-06 22:57:27,yes,8,kept_out_of_range,train
+Cough_013.wav,Cough,13,Single loud cough,20.5,32767,2025-10-06 22:57:36,yes,8,kept_out_of_range,train
+Cough_003.wav,Cough,3,Single soft cough,19.5,32767,2025-10-06 22:55:49,yes,8,kept_out_of_range,train
+Cough_002.wav,Cough,2,Single soft cough,23.3,14867,2025-10-06 22:55:38,yes,8,kept_out_of_range,train
+Cough_004.wav,Cough,4,1184.0,22591,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Cough_003.wav,Cough,3,768.4,10000,Single soft cough,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Cough_009.wav,Cough,9,Two short coughs,15.4,32767,2025-10-06 22:56:51,yes,8,kept_out_of_range,train
+Cough_014.wav,Cough,14,Single loud cough,30.7,31502,2025-10-06 22:57:46,yes,8,kept_out_of_range,train
+Cough_014.wav,Cough,14,3343.3,31502,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Cough_020.wav,Cough,20,Short cough bursts,39.0,32767,2025-10-06 22:58:58,yes,8,kept_out_of_range,train
+Cough_006.wav,Cough,6,783.9,11681,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Cough_010.wav,Cough,10,4119.7,32768,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Cough_010.wav,Cough,10,1257.1,10000,Two short coughs,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Cough_018.wav,Cough,18,Short cough bursts,19.4,32767,2025-10-06 22:58:34,yes,8,kept_out_of_range,train
+Cough_011.wav,Cough,11,Single loud cough,3.5,58,2025-10-06 22:57:17,yes,8,kept_out_of_range,train
+Cough_012.wav,Cough,12,782.3,10000,Single loud cough,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Cough_019.wav,Cough,19,1428.6,10000,Short cough bursts,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Cough_018.wav,Cough,18,838.4,10000,Short cough bursts,2025-10-06 23:38:49,Airdopes Alpha,1,8,test
+Cough_019.wav,Cough,19,Short cough bursts,34.9,32766,2025-10-06 22:58:47,yes,8,kept_out_of_range,test
+Cough_015.wav,Cough,15,3025.0,28074,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,test
+Cough_001.wav,Cough,1,446.4,10000,Single soft cough,2025-10-06 23:38:49,Airdopes Alpha,1,8,test
+Cough_002.wav,Cough,2,882.3,14867,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,test
+Cough_006.wav,Cough,6,671.0,10000,Two short coughs,2025-10-06 23:38:49,Airdopes Alpha,1,8,test
+Cough_014.wav,Cough,14,1061.2,10000,Single loud cough,2025-10-06 23:38:49,Airdopes Alpha,1,8,test
+Cough_018.wav,Cough,18,2747.6,32768,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,test
+Cough_005.wav,Cough,5,616.6,10000,Single soft cough,2025-10-06 23:38:49,Airdopes Alpha,1,8,test
+Cough_008.wav,Cough,8,1000.7,10000,Two short coughs,2025-10-06 23:38:49,Airdopes Alpha,1,8,test
+Cough_001.wav,Cough,1,Single soft cough,15.7,5827,2025-10-06 22:55:26,yes,8,kept_out_of_range,test
+Cough_008.wav,Cough,8,3279.5,32767,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,test
+Fast_Breath_014.wav,Fast_Breath,14,Slightly longer exhales,46.2,26861,2025-10-06 22:49:56,yes,8,kept_out_of_range,train
+Fast_Breath_004.wav,Fast_Breath,4,"Short, quick breaths",35.9,32767,2025-10-06 22:47:51,yes,8,kept_out_of_range,train
+Fast_Breath_006.wav,Fast_Breath,6,1203.7,10000,Rapid in/out breaths,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Fast_Breath_005.wav,Fast_Breath,5,5216.6,28816,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Fast_Breath_020.wav,Fast_Breath,20,3 very quick breaths,35.1,32767,2025-10-06 22:51:07,yes,8,kept_out_of_range,train
+Fast_Breath_011.wav,Fast_Breath,11,Slightly longer exhales,7.2,63,2025-10-06 22:49:18,yes,8,kept_out_of_range,train
+Fast_Breath_008.wav,Fast_Breath,8,1212.8,10000,Rapid in/out breaths,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Fast_Breath_007.wav,Fast_Breath,7,2233.5,21708,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Fast_Breath_002.wav,Fast_Breath,2,"Short, quick breaths",41.6,11967,2025-10-06 22:47:28,yes,8,kept_out_of_range,train
+Fast_Breath_017.wav,Fast_Breath,17,5005.9,26623,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Fast_Breath_013.wav,Fast_Breath,13,1386.3,10000,Slightly longer exhales,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Fast_Breath_006.wav,Fast_Breath,6,Rapid in/out breaths,21.8,182,2025-10-06 22:48:20,yes,8,kept_out_of_range,train
+Fast_Breath_007.wav,Fast_Breath,7,Rapid in/out breaths,29.7,21708,2025-10-06 22:48:32,yes,8,kept_out_of_range,train
+Fast_Breath_002.wav,Fast_Breath,2,1080.3,11967,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Fast_Breath_004.wav,Fast_Breath,4,5326.1,32768,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Fast_Breath_001.wav,Fast_Breath,1,5064.9,28198,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Fast_Breath_016.wav,Fast_Breath,16,295.4,3266,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Fast_Breath_012.wav,Fast_Breath,12,1102.5,10000,Slightly longer exhales,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Fast_Breath_006.wav,Fast_Breath,6,21.9,182,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Fast_Breath_007.wav,Fast_Breath,7,1028.7,10000,Rapid in/out breaths,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Fast_Breath_017.wav,Fast_Breath,17,3 very quick breaths,36.7,26623,2025-10-06 22:50:36,yes,8,kept_out_of_range,train
+Fast_Breath_013.wav,Fast_Breath,13,Slightly longer exhales,35.6,32355,2025-10-06 22:49:44,yes,8,kept_out_of_range,train
+Fast_Breath_019.wav,Fast_Breath,19,3 very quick breaths,28.8,31607,2025-10-06 22:50:56,yes,8,kept_out_of_range,train
+Fast_Breath_019.wav,Fast_Breath,19,5208.8,31607,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Fast_Breath_005.wav,Fast_Breath,5,1810.0,10000,"Short, quick breaths",2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Fast_Breath_018.wav,Fast_Breath,18,3 very quick breaths,29.4,28882,2025-10-06 22:50:46,yes,8,kept_out_of_range,train
+Fast_Breath_015.wav,Fast_Breath,15,Slightly longer exhales,41.6,25640,2025-10-06 22:50:10,yes,8,kept_out_of_range,train
+Fast_Breath_019.wav,Fast_Breath,19,1647.8,10000,3 very quick breaths,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Fast_Breath_014.wav,Fast_Breath,14,4151.7,26861,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Fast_Breath_003.wav,Fast_Breath,3,"Short, quick breaths",29.8,32767,2025-10-06 22:47:40,yes,8,kept_out_of_range,train
+Fast_Breath_001.wav,Fast_Breath,1,1796.0,10000,"Short, quick breaths",2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Fast_Breath_011.wav,Fast_Breath,11,1143.6,10000,Slightly longer exhales,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Fast_Breath_013.wav,Fast_Breath,13,4486.0,32355,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Fast_Breath_020.wav,Fast_Breath,20,4532.0,32767,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Fast_Breath_008.wav,Fast_Breath,8,Rapid in/out breaths,34.4,27655,2025-10-06 22:48:43,yes,8,kept_out_of_range,train
+Fast_Breath_015.wav,Fast_Breath,15,981.5,10000,Slightly longer exhales,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Fast_Breath_020.wav,Fast_Breath,20,1382.9,10000,3 very quick breaths,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Fast_Breath_011.wav,Fast_Breath,11,7.2,63,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Fast_Breath_014.wav,Fast_Breath,14,1545.4,10000,Slightly longer exhales,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Fast_Breath_015.wav,Fast_Breath,15,2517.0,25640,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Fast_Breath_003.wav,Fast_Breath,3,3084.4,32767,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Fast_Breath_002.wav,Fast_Breath,2,902.5,10000,"Short, quick breaths",2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Fast_Breath_001.wav,Fast_Breath,1,"Short, quick breaths",42.8,28198,2025-10-06 22:47:14,yes,8,kept_out_of_range,train
+Fast_Breath_012.wav,Fast_Breath,12,Slightly longer exhales,34.2,31363,2025-10-06 22:49:31,yes,8,kept_out_of_range,train
+Fast_Breath_010.wav,Fast_Breath,10,3055.3,21978,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Fast_Breath_016.wav,Fast_Breath,16,904.4,10000,3 very quick breaths,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Fast_Breath_017.wav,Fast_Breath,17,1880.1,10000,3 very quick breaths,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Fast_Breath_012.wav,Fast_Breath,12,3458.3,31363,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Fast_Breath_018.wav,Fast_Breath,18,4074.3,28882,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,test
+Fast_Breath_009.wav,Fast_Breath,9,3007.9,21501,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,test
+Fast_Breath_004.wav,Fast_Breath,4,1625.2,10000,"Short, quick breaths",2025-10-06 23:38:49,Airdopes Alpha,1,8,test
+Fast_Breath_005.wav,Fast_Breath,5,"Short, quick breaths",33.2,28816,2025-10-06 22:48:02,yes,8,kept_out_of_range,test
+Fast_Breath_010.wav,Fast_Breath,10,1389.9,10000,Rapid in/out breaths,2025-10-06 23:38:49,Airdopes Alpha,1,8,test
+Fast_Breath_003.wav,Fast_Breath,3,941.1,10000,"Short, quick breaths",2025-10-06 23:38:49,Airdopes Alpha,1,8,test
+Fast_Breath_016.wav,Fast_Breath,16,3 very quick breaths,25.9,3266,2025-10-06 22:50:25,yes,8,kept_out_of_range,test
+Fast_Breath_018.wav,Fast_Breath,18,1410.5,10000,3 very quick breaths,2025-10-06 23:38:49,Airdopes Alpha,1,8,test
+Fast_Breath_008.wav,Fast_Breath,8,3354.5,27655,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,test
+Fast_Breath_010.wav,Fast_Breath,10,Rapid in/out breaths,39.5,21978,2025-10-06 22:49:03,yes,8,kept_out_of_range,test
+Fast_Breath_009.wav,Fast_Breath,9,Rapid in/out breaths,37.3,21501,2025-10-06 22:48:53,yes,8,kept_out_of_range,test
+Fast_Breath_009.wav,Fast_Breath,9,1398.7,10000,Rapid in/out breaths,2025-10-06 23:38:49,Airdopes Alpha,1,8,test
+Deep_Breath_001.wav,Deep_Breath,1,1809.5,10000,"Slow, steady inhale",2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Deep_Breath_008.wav,Deep_Breath,8,176.6,2192,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Deep_Breath_017.wav,Deep_Breath,17,164.0,10000,Deep inhale (hold breath 1s),2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Deep_Breath_002.wav,Deep_Breath,2,1066.4,10000,"Slow, steady inhale",2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Deep_Breath_015.wav,Deep_Breath,15,2288.6,10000,Deep inhale + small exhale,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Deep_Breath_016.wav,Deep_Breath,16,Deep inhale (hold breath 1s),37.1,29415,2025-10-06 22:46:07,yes,8,kept_out_of_range,train
+Deep_Breath_016.wav,Deep_Breath,16,564.3,10000,Deep inhale (hold breath 1s),2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Deep_Breath_010.wav,Deep_Breath,10,Slightly faster inhale,35.4,3479,2025-10-06 22:44:59,yes,8,kept_out_of_range,train
+Deep_Breath_019.wav,Deep_Breath,19,1112.1,10000,Deep inhale (hold breath 1s),2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Deep_Breath_007.wav,Deep_Breath,7,55.7,710,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Deep_Breath_006.wav,Deep_Breath,6,1.8,15,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Deep_Breath_019.wav,Deep_Breath,19,Deep inhale (hold breath 1s),35.0,3382,2025-10-06 22:46:50,yes,8,kept_out_of_range,train
+Deep_Breath_012.wav,Deep_Breath,12,2365.9,19076,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Deep_Breath_005.wav,Deep_Breath,5,838.4,10000,"Slow, steady inhale",2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Deep_Breath_003.wav,Deep_Breath,3,"Slow, steady inhale",33.9,1817,2025-10-06 22:42:35,yes,8,kept_out_of_range,train
+Deep_Breath_013.wav,Deep_Breath,13,2071.1,22032,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Deep_Breath_011.wav,Deep_Breath,11,237.3,1891,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Deep_Breath_017.wav,Deep_Breath,17,Deep inhale (hold breath 1s),28.1,23318,2025-10-06 22:46:22,yes,8,kept_out_of_range,train
+Deep_Breath_018.wav,Deep_Breath,18,138.6,1423,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Deep_Breath_001.wav,Deep_Breath,1,"Slow, steady inhale",36.8,29523,2025-10-06 22:42:05,yes,8,kept_out_of_range,train
+Deep_Breath_009.wav,Deep_Breath,9,717.0,10000,Slightly faster inhale,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Deep_Breath_013.wav,Deep_Breath,13,939.8,10000,Deep inhale + small exhale,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Deep_Breath_011.wav,Deep_Breath,11,Deep inhale + small exhale,40.0,1891,2025-10-06 22:45:08,yes,8,kept_out_of_range,train
+Deep_Breath_008.wav,Deep_Breath,8,805.5,10000,Slightly faster inhale,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Deep_Breath_005.wav,Deep_Breath,5,"Slow, steady inhale",32.6,1655,2025-10-06 22:43:02,yes,8,kept_out_of_range,train
+Deep_Breath_008.wav,Deep_Breath,8,Slightly faster inhale,22.3,2192,2025-10-06 22:44:33,yes,8,kept_out_of_range,train
+Deep_Breath_007.wav,Deep_Breath,7,784.6,10000,Slightly faster inhale,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Deep_Breath_014.wav,Deep_Breath,14,4377.9,27967,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Deep_Breath_017.wav,Deep_Breath,17,382.6,23318,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Deep_Breath_020.wav,Deep_Breath,20,Deep inhale (hold breath 1s),43.5,2326,2025-10-06 22:47:01,yes,8,kept_out_of_range,train
+Deep_Breath_003.wav,Deep_Breath,3,1071.8,10000,"Slow, steady inhale",2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Deep_Breath_010.wav,Deep_Breath,10,735.4,10000,Slightly faster inhale,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Deep_Breath_002.wav,Deep_Breath,2,358.5,3361,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Deep_Breath_012.wav,Deep_Breath,12,1240.0,10000,Deep inhale + small exhale,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Deep_Breath_009.wav,Deep_Breath,9,Slightly faster inhale,39.9,4002,2025-10-06 22:44:46,yes,8,kept_out_of_range,train
+Deep_Breath_007.wav,Deep_Breath,7,Slightly faster inhale,22.3,710,2025-10-06 22:44:01,yes,8,kept_out_of_range,train
+Deep_Breath_020.wav,Deep_Breath,20,255.7,2326,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Deep_Breath_020.wav,Deep_Breath,20,1099.1,10000,Deep inhale (hold breath 1s),2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Deep_Breath_013.wav,Deep_Breath,13,Deep inhale + small exhale,35.5,22032,2025-10-06 22:45:31,yes,8,kept_out_of_range,train
+Deep_Breath_009.wav,Deep_Breath,9,287.0,4002,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Deep_Breath_012.wav,Deep_Breath,12,Deep inhale + small exhale,39.8,19076,2025-10-06 22:45:20,yes,8,kept_out_of_range,train
+Deep_Breath_010.wav,Deep_Breath,10,255.9,3479,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Deep_Breath_018.wav,Deep_Breath,18,Deep inhale (hold breath 1s),26.3,1423,2025-10-06 22:46:38,yes,8,kept_out_of_range,train
+Deep_Breath_001.wav,Deep_Breath,1,5342.9,29523,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Deep_Breath_016.wav,Deep_Breath,16,1660.4,29415,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Deep_Breath_005.wav,Deep_Breath,5,138.8,1655,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Deep_Breath_003.wav,Deep_Breath,3,194.8,1817,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Deep_Breath_002.wav,Deep_Breath,2,"Slow, steady inhale",37.2,3361,2025-10-06 22:42:23,yes,8,kept_out_of_range,train
+Deep_Breath_019.wav,Deep_Breath,19,376.2,3382,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,test
+Deep_Breath_014.wav,Deep_Breath,14,Deep inhale + small exhale,24.0,27967,2025-10-06 22:45:42,yes,8,kept_out_of_range,test
+Deep_Breath_004.wav,Deep_Breath,4,"Slow, steady inhale",22.8,2045,2025-10-06 22:42:47,yes,8,kept_out_of_range,test
+Deep_Breath_011.wav,Deep_Breath,11,1254.6,10000,Deep inhale + small exhale,2025-10-06 23:38:49,Airdopes Alpha,1,8,test
+Deep_Breath_014.wav,Deep_Breath,14,1565.2,10000,Deep inhale + small exhale,2025-10-06 23:38:49,Airdopes Alpha,1,8,test
+Deep_Breath_004.wav,Deep_Breath,4,225.8,2045,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,test
+Deep_Breath_006.wav,Deep_Breath,6,1215.3,10000,Slightly faster inhale,2025-10-06 23:38:49,Airdopes Alpha,1,8,test
+Deep_Breath_018.wav,Deep_Breath,18,974.0,10000,Deep inhale (hold breath 1s),2025-10-06 23:38:49,Airdopes Alpha,1,8,test
+Deep_Breath_006.wav,Deep_Breath,6,Slightly faster inhale,1.8,15,2025-10-06 22:43:20,yes,8,kept_out_of_range,test
+Deep_Breath_004.wav,Deep_Breath,4,1104.0,10000,"Slow, steady inhale",2025-10-06 23:38:49,Airdopes Alpha,1,8,test
+Deep_Breath_015.wav,Deep_Breath,15,6630.3,28968,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,test
+Deep_Breath_015.wav,Deep_Breath,15,Deep inhale + small exhale,35.0,28968,2025-10-06 22:45:54,yes,8,kept_out_of_range,test
+Silence_004.wav,Silence,4,1227.6,10000,Stay silent,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Silence_012.wav,Silence,12,1442.9,10000,Stay silent,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Silence_019.wav,Silence,19,1243.9,10000,Stay silent,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Silence_003.wav,Silence,3,Stay silent,1.2,16,2025-10-06 22:59:31,yes,8,kept_out_of_range,train
+Silence_014.wav,Silence,14,1.1,19,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Silence_010.wav,Silence,10,1.6,15,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Silence_008.wav,Silence,8,Stay silent,1.3,9,2025-10-06 23:00:22,yes,8,kept_out_of_range,train
+Silence_012.wav,Silence,12,Stay silent,1.3,9,2025-10-06 23:01:11,yes,8,kept_out_of_range,train
+Silence_005.wav,Silence,5,Stay silent,1.4,10,2025-10-06 22:59:51,yes,8,kept_out_of_range,train
+Silence_017.wav,Silence,17,Stay silent,4.1,23,2025-10-06 23:02:02,yes,8,kept_out_of_range,train
+Silence_015.wav,Silence,15,725.4,10000,Stay silent,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Silence_005.wav,Silence,5,1.4,10,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Silence_017.wav,Silence,17,1777.4,10000,Stay silent,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Silence_015.wav,Silence,15,Stay silent,2.0,27,2025-10-06 23:01:43,yes,8,kept_out_of_range,train
+Silence_004.wav,Silence,4,1.4,11,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Silence_007.wav,Silence,7,999.7,10000,Stay silent,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Silence_018.wav,Silence,18,1277.3,10000,Stay silent,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Silence_014.wav,Silence,14,598.7,10000,Stay silent,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Silence_008.wav,Silence,8,1.3,9,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Silence_011.wav,Silence,11,4.2,37,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Silence_016.wav,Silence,16,Stay silent,1.9,16,2025-10-06 23:01:53,yes,8,kept_out_of_range,train
+Silence_009.wav,Silence,9,1355.0,10000,Stay silent,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Silence_009.wav,Silence,9,Stay silent,1.2,9,2025-10-06 23:00:33,yes,8,kept_out_of_range,train
+Silence_002.wav,Silence,2,Stay silent,1.4,12,2025-10-06 22:59:19,yes,8,kept_out_of_range,train
+Silence_007.wav,Silence,7,Stay silent,1.4,14,2025-10-06 23:00:08,yes,8,kept_out_of_range,train
+Silence_002.wav,Silence,2,1.4,12,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Silence_006.wav,Silence,6,1.7,12,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Silence_015.wav,Silence,15,2.0,27,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Silence_001.wav,Silence,1,87.7,6273,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Silence_014.wav,Silence,14,Stay silent,1.1,19,2025-10-06 23:01:31,yes,8,kept_out_of_range,train
+Silence_010.wav,Silence,10,Stay silent,1.6,15,2025-10-06 23:00:45,yes,8,kept_out_of_range,train
+Silence_012.wav,Silence,12,1.3,9,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Silence_005.wav,Silence,5,1413.8,10000,Stay silent,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Silence_008.wav,Silence,8,1474.2,10000,Stay silent,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Silence_007.wav,Silence,7,1.4,14,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Silence_020.wav,Silence,20,Stay silent,2.2,14,2025-10-06 23:02:33,yes,8,kept_out_of_range,train
+Silence_006.wav,Silence,6,1380.4,10000,Stay silent,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Silence_004.wav,Silence,4,Stay silent,1.4,11,2025-10-06 22:59:42,yes,8,kept_out_of_range,train
+Silence_017.wav,Silence,17,4.1,23,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Silence_003.wav,Silence,3,1.2,16,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Silence_006.wav,Silence,6,Stay silent,1.7,12,2025-10-06 22:59:59,yes,8,kept_out_of_range,train
+Silence_020.wav,Silence,20,2.2,14,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Silence_018.wav,Silence,18,3.2,25,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Silence_019.wav,Silence,19,Stay silent,3.2,26,2025-10-06 23:02:23,yes,8,kept_out_of_range,train
+Silence_001.wav,Silence,1,Stay silent,3.7,6273,2025-10-06 22:59:08,yes,8,kept_out_of_range,train
+Silence_013.wav,Silence,13,Stay silent,9.3,61,2025-10-06 23:01:22,yes,8,kept_out_of_range,train
+Silence_010.wav,Silence,10,1078.7,10000,Stay silent,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Silence_003.wav,Silence,3,765.0,10000,Stay silent,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Silence_016.wav,Silence,16,1.9,16,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,test
+Silence_002.wav,Silence,2,1159.4,10000,Stay silent,2025-10-06 23:38:49,Airdopes Alpha,1,8,test
+Silence_019.wav,Silence,19,3.2,26,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,test
+Silence_013.wav,Silence,13,9.3,61,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,test
+Silence_018.wav,Silence,18,Stay silent,3.2,25,2025-10-06 23:02:11,yes,8,kept_out_of_range,test
+Silence_011.wav,Silence,11,Stay silent,4.2,37,2025-10-06 23:01:01,yes,8,kept_out_of_range,test
+Silence_016.wav,Silence,16,1170.7,10000,Stay silent,2025-10-06 23:38:49,Airdopes Alpha,1,8,test
+Silence_020.wav,Silence,20,1535.4,10000,Stay silent,2025-10-06 23:38:49,Airdopes Alpha,1,8,test
+Silence_009.wav,Silence,9,1.2,9,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,test
+Silence_011.wav,Silence,11,1129.5,10000,Stay silent,2025-10-06 23:38:49,Airdopes Alpha,1,8,test
+Silence_013.wav,Silence,13,1519.6,10000,Stay silent,2025-10-06 23:38:49,Airdopes Alpha,1,8,test
+Silence_001.wav,Silence,1,139.8,10000,Stay silent,2025-10-06 23:38:49,Airdopes Alpha,1,8,test
+Whisper_Hello_006.wav,Whisper_Hello,6,Whisper slightly faster,7.6,75,2025-10-06 22:52:23,yes,8,kept_out_of_range,train
+Whisper_Hello_018.wav,Whisper_Hello,18,Whisper 'hello' with pause,18.5,8222,2025-10-06 22:54:53,yes,8,kept_out_of_range,train
+Whisper_Hello_012.wav,Whisper_Hello,12,763.7,12065,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Whisper_Hello_014.wav,Whisper_Hello,14,1287.1,16139,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Whisper_Hello_001.wav,Whisper_Hello,1,Whisper 'hello' softly,25.3,20013,2025-10-06 22:51:22,yes,8,kept_out_of_range,train
+Whisper_Hello_014.wav,Whisper_Hello,14,797.3,10000,Whisper 'hello' twice,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Whisper_Hello_012.wav,Whisper_Hello,12,632.8,10000,Whisper 'hello' twice,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Whisper_Hello_008.wav,Whisper_Hello,8,1042.0,10000,Whisper slightly faster,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Whisper_Hello_001.wav,Whisper_Hello,1,630.2,10000,Whisper 'hello' softly,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Whisper_Hello_016.wav,Whisper_Hello,16,Whisper 'hello' with pause,19.2,3322,2025-10-06 22:54:33,yes,8,kept_out_of_range,train
+Whisper_Hello_011.wav,Whisper_Hello,11,Whisper 'hello' twice,23.4,5634,2025-10-06 22:53:32,yes,8,kept_out_of_range,train
+Whisper_Hello_020.wav,Whisper_Hello,20,583.6,8024,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Whisper_Hello_019.wav,Whisper_Hello,19,Whisper 'hello' with pause,5.1,97,2025-10-06 22:55:05,yes,8,kept_out_of_range,train
+Whisper_Hello_016.wav,Whisper_Hello,16,177.0,3322,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Whisper_Hello_008.wav,Whisper_Hello,8,784.3,7525,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Whisper_Hello_003.wav,Whisper_Hello,3,Whisper 'hello' softly,26.1,9771,2025-10-06 22:51:50,yes,8,kept_out_of_range,train
+Whisper_Hello_004.wav,Whisper_Hello,4,Whisper 'hello' softly,31.4,11438,2025-10-06 22:52:01,yes,8,kept_out_of_range,train
+Whisper_Hello_013.wav,Whisper_Hello,13,7.7,80,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Whisper_Hello_015.wav,Whisper_Hello,15,1044.0,9687,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Whisper_Hello_017.wav,Whisper_Hello,17,620.2,10194,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Whisper_Hello_011.wav,Whisper_Hello,11,431.9,5634,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Whisper_Hello_012.wav,Whisper_Hello,12,Whisper 'hello' twice,22.9,12065,2025-10-06 22:53:45,yes,8,kept_out_of_range,train
+Whisper_Hello_010.wav,Whisper_Hello,10,Whisper slightly faster,32.5,6170,2025-10-06 22:53:19,yes,8,kept_out_of_range,train
+Whisper_Hello_001.wav,Whisper_Hello,1,1261.7,20013,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Whisper_Hello_009.wav,Whisper_Hello,9,695.6,7723,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Whisper_Hello_018.wav,Whisper_Hello,18,435.7,8222,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Whisper_Hello_015.wav,Whisper_Hello,15,1077.5,10000,Whisper 'hello' twice,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Whisper_Hello_003.wav,Whisper_Hello,3,869.6,9771,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Whisper_Hello_005.wav,Whisper_Hello,5,1343.1,12435,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Whisper_Hello_015.wav,Whisper_Hello,15,Whisper 'hello' twice,24.0,9687,2025-10-06 22:54:20,yes,8,kept_out_of_range,train
+Whisper_Hello_017.wav,Whisper_Hello,17,608.2,10000,Whisper 'hello' with pause,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Whisper_Hello_020.wav,Whisper_Hello,20,Whisper 'hello' with pause,20.0,8024,2025-10-06 22:55:14,yes,8,kept_out_of_range,train
+Whisper_Hello_019.wav,Whisper_Hello,19,526.3,10000,Whisper 'hello' with pause,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Whisper_Hello_014.wav,Whisper_Hello,14,Whisper 'hello' twice,19.3,16139,2025-10-06 22:54:06,yes,8,kept_out_of_range,train
+Whisper_Hello_007.wav,Whisper_Hello,7,Whisper slightly faster,17.6,7200,2025-10-06 22:52:46,yes,8,kept_out_of_range,train
+Whisper_Hello_010.wav,Whisper_Hello,10,1134.1,10000,Whisper slightly faster,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Whisper_Hello_003.wav,Whisper_Hello,3,889.8,10000,Whisper 'hello' softly,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Whisper_Hello_002.wav,Whisper_Hello,2,1112.0,10000,Whisper 'hello' softly,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Whisper_Hello_013.wav,Whisper_Hello,13,966.4,10000,Whisper 'hello' twice,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Whisper_Hello_009.wav,Whisper_Hello,9,900.5,10000,Whisper slightly faster,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Whisper_Hello_005.wav,Whisper_Hello,5,Whisper 'hello' softly,26.9,12435,2025-10-06 22:52:10,yes,8,kept_out_of_range,train
+Whisper_Hello_011.wav,Whisper_Hello,11,766.5,10000,Whisper 'hello' twice,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Whisper_Hello_004.wav,Whisper_Hello,4,1092.1,10000,Whisper 'hello' softly,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Whisper_Hello_020.wav,Whisper_Hello,20,727.2,10000,Whisper 'hello' with pause,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Whisper_Hello_016.wav,Whisper_Hello,16,532.6,10000,Whisper 'hello' with pause,2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Whisper_Hello_019.wav,Whisper_Hello,19,5.1,97,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Whisper_Hello_017.wav,Whisper_Hello,17,Whisper 'hello' with pause,18.1,10194,2025-10-06 22:54:44,yes,8,kept_out_of_range,train
+Whisper_Hello_002.wav,Whisper_Hello,2,1739.8,15643,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Whisper_Hello_018.wav,Whisper_Hello,18,529.9,10000,Whisper 'hello' with pause,2025-10-06 23:38:49,Airdopes Alpha,1,8,test
+Whisper_Hello_007.wav,Whisper_Hello,7,949.5,10000,Whisper slightly faster,2025-10-06 23:38:49,Airdopes Alpha,1,8,test
+Whisper_Hello_006.wav,Whisper_Hello,6,7.6,75,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,test
+Whisper_Hello_009.wav,Whisper_Hello,9,Whisper slightly faster,20.6,7723,2025-10-06 22:53:10,yes,8,kept_out_of_range,test
+Whisper_Hello_013.wav,Whisper_Hello,13,Whisper 'hello' twice,7.7,80,2025-10-06 22:53:56,yes,8,kept_out_of_range,test
+Whisper_Hello_004.wav,Whisper_Hello,4,1249.4,11438,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,test
+Whisper_Hello_006.wav,Whisper_Hello,6,1009.1,10000,Whisper slightly faster,2025-10-06 23:38:49,Airdopes Alpha,1,8,test
+Whisper_Hello_002.wav,Whisper_Hello,2,Whisper 'hello' softly,30.3,15643,2025-10-06 22:51:38,yes,8,kept_out_of_range,test
+Whisper_Hello_005.wav,Whisper_Hello,5,1079.8,10000,Whisper 'hello' softly,2025-10-06 23:38:49,Airdopes Alpha,1,8,test
+Whisper_Hello_008.wav,Whisper_Hello,8,Whisper slightly faster,26.7,7525,2025-10-06 22:52:58,yes,8,kept_out_of_range,test
+Whisper_Hello_007.wav,Whisper_Hello,7,683.7,7200,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,test
+Whisper_Hello_010.wav,Whisper_Hello,10,699.9,6170,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,test
+Long_Breath_009.wav,Long_Breath,9,851.3,10000,Long inhale (2s),2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Long_Breath_010.wav,Long_Breath,10,882.9,10000,Long inhale (2s),2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Long_Breath_011.wav,Long_Breath,11,Inhale + exhale (4s),18.9,23171,2025-10-06 23:08:14,yes,8,kept_out_of_range,train
+Long_Breath_018.wav,Long_Breath,18,1944.1,23031,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Long_Breath_002.wav,Long_Breath,2,200.5,2638,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Long_Breath_013.wav,Long_Breath,13,2092.0,20059,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Long_Breath_015.wav,Long_Breath,15,2781.3,28138,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Long_Breath_014.wav,Long_Breath,14,Inhale + exhale (4s),42.7,12460,2025-10-06 23:08:44,yes,8,kept_out_of_range,train
+Long_Breath_003.wav,Long_Breath,3,376.6,2673,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Long_Breath_006.wav,Long_Breath,6,322.0,3665,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Long_Breath_004.wav,Long_Breath,4,536.2,10000,Long inhale (2s),2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Long_Breath_016.wav,Long_Breath,16,778.8,10000,Inhale + exhale (4s),2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Long_Breath_017.wav,Long_Breath,17,Inhale + exhale (4s),45.2,15994,2025-10-06 23:09:15,yes,8,kept_out_of_range,train
+Long_Breath_001.wav,Long_Breath,1,859.8,10000,Long inhale (2s),2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Long_Breath_007.wav,Long_Breath,7,1019.2,10000,Long inhale (2s),2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Long_Breath_011.wav,Long_Breath,11,830.1,10000,Inhale + exhale (4s),2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Long_Breath_018.wav,Long_Breath,18,843.9,10000,Inhale + exhale (4s),2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Long_Breath_019.wav,Long_Breath,19,1433.5,14671,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Long_Breath_014.wav,Long_Breath,14,1127.7,10000,Inhale + exhale (4s),2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Long_Breath_005.wav,Long_Breath,5,Long inhale (2s),38.3,1074,2025-10-06 23:07:18,yes,8,kept_out_of_range,train
+Long_Breath_001.wav,Long_Breath,1,Long inhale (2s),26.0,21544,2025-10-06 23:06:46,yes,8,kept_out_of_range,train
+Long_Breath_012.wav,Long_Breath,12,Inhale + exhale (4s),54.5,10913,2025-10-06 23:08:25,yes,8,kept_out_of_range,train
+Long_Breath_007.wav,Long_Breath,7,Long inhale (2s),42.0,11147,2025-10-06 23:07:37,yes,8,kept_out_of_range,train
+Long_Breath_017.wav,Long_Breath,17,894.6,10000,Inhale + exhale (4s),2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Long_Breath_003.wav,Long_Breath,3,Long inhale (2s),35.3,2673,2025-10-06 23:07:02,yes,8,kept_out_of_range,train
+Long_Breath_008.wav,Long_Breath,8,738.7,10000,Long inhale (2s),2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Long_Breath_001.wav,Long_Breath,1,1852.8,21544,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Long_Breath_014.wav,Long_Breath,14,1405.4,12460,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Long_Breath_006.wav,Long_Breath,6,Long inhale (2s),40.9,3665,2025-10-06 23:07:29,yes,8,kept_out_of_range,train
+Long_Breath_013.wav,Long_Breath,13,Inhale + exhale (4s),29.7,20059,2025-10-06 23:08:34,yes,8,kept_out_of_range,train
+Long_Breath_010.wav,Long_Breath,10,716.8,8116,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Long_Breath_005.wav,Long_Breath,5,117.3,1074,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Long_Breath_016.wav,Long_Breath,16,1121.6,14398,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Long_Breath_020.wav,Long_Breath,20,186.1,2801,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Long_Breath_003.wav,Long_Breath,3,1408.7,10000,Long inhale (2s),2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Long_Breath_009.wav,Long_Breath,9,Long inhale (2s),56.0,4646,2025-10-06 23:07:56,yes,8,kept_out_of_range,train
+Long_Breath_004.wav,Long_Breath,4,Long inhale (2s),35.4,5711,2025-10-06 23:07:10,yes,8,kept_out_of_range,train
+Long_Breath_008.wav,Long_Breath,8,1.8,24,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Long_Breath_008.wav,Long_Breath,8,Long inhale (2s),1.8,24,2025-10-06 23:07:49,yes,8,kept_out_of_range,train
+Long_Breath_016.wav,Long_Breath,16,Inhale + exhale (4s),39.0,14398,2025-10-06 23:09:04,yes,8,kept_out_of_range,train
+Long_Breath_002.wav,Long_Breath,2,760.0,10000,Long inhale (2s),2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Long_Breath_018.wav,Long_Breath,18,Inhale + exhale (4s),40.5,23031,2025-10-06 23:09:25,yes,8,kept_out_of_range,train
+Long_Breath_007.wav,Long_Breath,7,1136.4,11147,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Long_Breath_009.wav,Long_Breath,9,395.6,4646,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Long_Breath_015.wav,Long_Breath,15,988.2,10000,Inhale + exhale (4s),2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Long_Breath_004.wav,Long_Breath,4,306.3,5711,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,train
+Long_Breath_019.wav,Long_Breath,19,Inhale + exhale (4s),52.3,14671,2025-10-06 23:09:35,yes,8,kept_out_of_range,train
+Long_Breath_012.wav,Long_Breath,12,792.9,10000,Inhale + exhale (4s),2025-10-06 23:38:49,Airdopes Alpha,1,8,train
+Long_Breath_006.wav,Long_Breath,6,878.4,10000,Long inhale (2s),2025-10-06 23:38:49,Airdopes Alpha,1,8,test
+Long_Breath_015.wav,Long_Breath,15,Inhale + exhale (4s),39.4,28138,2025-10-06 23:08:54,yes,8,kept_out_of_range,test
+Long_Breath_010.wav,Long_Breath,10,Long inhale (2s),53.1,8116,2025-10-06 23:08:04,yes,8,kept_out_of_range,test
+Long_Breath_005.wav,Long_Breath,5,1092.2,10000,Long inhale (2s),2025-10-06 23:38:49,Airdopes Alpha,1,8,test
+Long_Breath_013.wav,Long_Breath,13,1042.7,10000,Inhale + exhale (4s),2025-10-06 23:38:49,Airdopes Alpha,1,8,test
+Long_Breath_020.wav,Long_Breath,20,664.2,10000,Inhale + exhale (4s),2025-10-06 23:38:49,Airdopes Alpha,1,8,test
+Long_Breath_019.wav,Long_Breath,19,976.9,10000,Inhale + exhale (4s),2025-10-06 23:38:49,Airdopes Alpha,1,8,test
+Long_Breath_012.wav,Long_Breath,12,865.5,10913,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,test
+Long_Breath_017.wav,Long_Breath,17,1431.1,15994,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,test
+Long_Breath_020.wav,Long_Breath,20,Inhale + exhale (4s),20.9,2801,2025-10-06 23:09:47,yes,8,kept_out_of_range,test
+Long_Breath_002.wav,Long_Breath,2,Long inhale (2s),28.6,2638,2025-10-06 23:06:55,yes,8,kept_out_of_range,test
+Long_Breath_011.wav,Long_Breath,11,1923.8,23171,2025-10-06 23:27:59,Airdopes Alpha,1,8,ok,test

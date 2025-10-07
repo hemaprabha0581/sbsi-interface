@@ -1,0 +1,42 @@
+import os
+import wave
+import pyaudio
+import shutil
+
+# Path to your data folder
+data_folder = r"C:\Medispeak\data"
+classes = ["Deep_Breath","Fast_Breath","Whisper_Hello","Whisper_Stop","Cough","Silence","Short_Breath","Long_Breath"]
+
+# Audio settings (match your recorded format)
+CHANNELS = 1
+SAMPLE_WIDTH = 2  # 2 bytes for paInt16
+SAMPLE_RATE = 16000
+
+for class_name in classes:
+    class_path = os.path.join(data_folder, class_name)
+    if not os.path.exists(class_path):
+        continue
+    
+    files = sorted(os.listdir(class_path))  # sort files for correct numbering
+    for i, file in enumerate(files):
+        old_path = os.path.join(class_path, file)
+        new_name = f"{class_name}_{i+1:03d}.wav"  # e.g., Deep_Breath_001.wav
+        new_path = os.path.join(class_path, new_name)
+        
+        # Check if already WAV, if yes just rename
+        if old_path.lower().endswith(".wav"):
+            os.rename(old_path, new_path)
+        else:
+            # Convert raw or unknown format to WAV
+            with open(old_path, "rb") as f:
+                audio_data = f.read()
+            wf = wave.open(new_path, 'wb')
+            wf.setnchannels(CHANNELS)
+            wf.setsampwidth(SAMPLE_WIDTH)
+            wf.setframerate(SAMPLE_RATE)
+            wf.writeframes(audio_data)
+            wf.close()
+            # Optional: remove original file
+            os.remove(old_path)
+        
+        print(f"Saved as WAV: {new_name}")

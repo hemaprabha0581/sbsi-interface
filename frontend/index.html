@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SBSI Demo</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Speech/Breath Interface (SBSI)</h1>
+      <p>Upload a WAV file or record from your microphone to classify as breath or speech.</p>
+    </header>
+
+    <main>
+      <section class="card">
+        <h2>Upload WAV</h2>
+        <input type="file" id="fileInput" accept="audio/wav,.wav" />
+        <button id="uploadBtn">Upload & Predict</button>
+      </section>
+
+      <section class="card">
+        <h2>Microphone</h2>
+        <div class="mic-controls">
+          <button id="recordBtn">Start Recording</button>
+          <span id="recordStatus" class="status">Idle</span>
+        </div>
+        <audio id="playback" controls></audio>
+      </section>
+
+      <section class="card">
+        <h2>Result</h2>
+        <div class="expected">
+          <label for="expectedLabel">Expected label:</label>
+          <select id="expectedLabel">
+            <option value="">-- optional --</option>
+            <option value="breath">breath</option>
+            <option value="speech">speech</option>
+          </select>
+        </div>
+        <div id="result" class="result">No prediction yet.</div>
+        <div id="accuracy" class="accuracy">Session accuracy: N/A</div>
+        <button id="resetStatsBtn" class="secondary">Reset stats</button>
+      </section>
+    </main>
+
+    <footer>
+      <small>Backend: FastAPI | Frontend: HTML/JS (no frameworks)</small>
+    </footer>
+
+
+    <script src="app.js"></script>
+  </body>
+</html>

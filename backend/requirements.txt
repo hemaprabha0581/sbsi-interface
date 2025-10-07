@@ -1,0 +1,8 @@
+# FastAPI + PyTorch backend for SBSI
+
+fastapi
+uvicorn[standard]
+torch
+numpy
+scipy
+python-multipart
